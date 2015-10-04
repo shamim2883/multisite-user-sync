@@ -1,6 +1,6 @@
 === Multisite User Sync ===
 Contributors: shamim51
-Tags: multisite,multisite user sync,user sync
+Tags: multisite,multisite user sync,user sync,role sync
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=4HKBQ3QFSCPHJ&lc=US&item_name=Front%20End%20PM&item_number=Front%20End%20PM&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Requires at least: 2.8
 Tested up to: 4.2.2
